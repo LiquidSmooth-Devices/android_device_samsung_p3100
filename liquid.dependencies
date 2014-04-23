@@ -1,31 +1,31 @@
 [
     {
-        "remote": "gh",
-        "repository": "SlimRoms/device_samsung_omap4-common",
+        "remote": "sr",
+        "repository": "device_samsung_omap4-common",
         "target_path": "device/samsung/omap4-common",
         "revision": "kk4.4"
     },
     {
-        "remote": "gh",
-        "repository": "SlimRoms/kernel_samsung_espresso10",
+        "remote": "sr",
+        "repository": "kernel_samsung_espresso10",
         "target_path": "kernel/samsung/espresso10",
         "revision": "kk4.4"
     },
     {
-        "remote": "gh",
-        "repository": "SlimRoms/proprietary_vendor_samsung",
+        "remote": "sr",
+        "repository": "proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
         "revision": "kk4.4"
     },
     {
-        "remote": "gh",
-        "repository": "SlimRoms/device_samsung_p3110",
+        "remote": "sr",
+        "repository": "device_samsung_p3110",
         "target_path": "device/samsung/p3110",
         "revision": "kk4.4"
     },
     {
-        "remote": "gh",
-        "repository": "SlimRoms/hardware_samsung",
+        "remote": "sr",
+        "repository": "hardware_samsung",
         "target_path": "hardware/samsung",
         "revision": "kk4.4"
     }
