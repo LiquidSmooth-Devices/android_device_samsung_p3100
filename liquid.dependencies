@@ -18,10 +18,10 @@
         "revision": "kk4.4"
     },
     {
-        "remote": "sr",
-        "repository": "device_samsung_p3110",
+        "remote": "ls",
+        "repository": "android_device_samsung_p3110",
         "target_path": "device/samsung/p3110",
-        "revision": "kk4.4"
+        "revision": "kitkat"
     },
     {
         "remote": "sr",
