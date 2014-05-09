@@ -145,5 +145,5 @@ BOARD_CHARGER_RES := device/samsung/p3100/res/charger
 -include vendor/samsung/p31xx/BoardConfigVendor.mk
 
 # Bootanimation
-TARGET_SCREEN_HEIGHT := 1024
-TARGET_SCREEN_WIDTH := 600
+TARGET_BOOTANIMATION_TEXTURE_CACHE := true
+TARGET_BOOTANIMATION_USE_RGB565 := true
