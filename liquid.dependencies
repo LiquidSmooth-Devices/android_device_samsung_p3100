@@ -19,7 +19,7 @@
     },
     {
         "remote": "gh",
-        "repository": "LiquidSmooth/android_device_samsung_p3110",
+        "repository": "LiquidSmooth-Devices/android_device_samsung_p3110",
         "target_path": "device/samsung/p3110",
         "revision": "kitkat"
     },
