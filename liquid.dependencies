@@ -28,5 +28,12 @@
         "repository": "hardware_samsung",
         "target_path": "hardware/samsung",
         "revision": "kk4.4"
+    },
+    {
+        "remote": "sr",
+        "repository": "hardware_ti_omap4xxx",
+        "target_path": "hardware/ti/omap4xxx",
+        "revision": "kk4.4"
     }
+
 ]
